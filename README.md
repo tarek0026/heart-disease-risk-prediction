@@ -86,32 +86,7 @@ Final results achieved approximately:
 An interactive Streamlit web app is included where users can input patient data and get a real-time heart disease risk prediction.
 
 
-## 📂 Project Structure
 
-```text
-heart-disease-risk-prediction/
-│
-├── data/
-│   └── raw/
-│       └── heart_disease_uci.csv
-│
-├── models/
-│   └── heart_model.pkl
-│
-├── notebooks/
-│   ├── 01_eda.ipynb
-│   └── 02_modeling.ipynb
-│
-├── src/
-│   ├── preprocess.py
-│   ├── train.py
-│   └── evaluate.py
-│
-├── app/
-│   └── streamlit_app.py
-│
-├── requirements.txt
-└── README.md
 
 
 
@@ -164,3 +139,33 @@ Experiment with XGBoost and deep learning models
 Tarek Mohamed El-Batrik
 Computer Science Undergraduate @ Nile University
 Passionate about Machine Learning and Healthcare AI
+
+
+
+
+## 📂 Project Structure
+
+```text
+heart-disease-risk-prediction/
+│
+├── data/
+│   └── raw/
+│       └── heart_disease_uci.csv
+│
+├── models/
+│   └── heart_model.pkl
+│
+├── notebooks/
+│   ├── 01_eda.ipynb
+│   └── 02_modeling.ipynb
+│
+├── src/
+│   ├── preprocess.py
+│   ├── train.py
+│   └── evaluate.py
+│
+├── app/
+│   └── streamlit_app.py
+│
+├── requirements.txt
+└── README.md
