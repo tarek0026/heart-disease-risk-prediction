@@ -91,6 +91,10 @@ To run the app:
 streamlit run app/streamlit_app.py
 📂 Project Structure
 
+
+
+
+
 heart-disease-risk-prediction/
 │
 ├── data/
@@ -114,6 +118,14 @@ heart-disease-risk-prediction/
 │
 ├── requirements.txt
 └── README.md
+
+
+
+
+
+
+
+
 ▶️ How to Run the Project
 1. Install Dependencies
 pip install -r requirements.txt
