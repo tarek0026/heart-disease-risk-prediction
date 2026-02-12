@@ -119,7 +119,7 @@ heart-disease-risk-prediction/
 
 
 
-▶️ How to Run the Project
+## ▶️ How to Run the Project
 1. Install Dependencies
 pip install -r requirements.txt
 
@@ -139,7 +139,7 @@ This prints cross-validation scores and generates evaluation plots.
 
 4. Run the Streamlit App
 streamlit run app/streamlit_app.py
-🧠 Key Learning Outcomes
+## 🧠 Key Learning Outcomes
 
 Building reproducible ML pipelines
 
@@ -151,7 +151,7 @@ Evaluating healthcare models with ROC-AUC
 
 Saving and deploying models with Streamlit
 
-⭐ Future Improvements
+## ⭐ Future Improvements
 
 Add SHAP explainability for medical interpretation
 
@@ -159,7 +159,7 @@ Deploy the model online using Streamlit Cloud
 
 Experiment with XGBoost and deep learning models
 
-👤 Author
+## 👤 Author
 
 Tarek Mohamed El-Batrik
 Computer Science Undergraduate @ Nile University
