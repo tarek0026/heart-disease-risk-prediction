@@ -88,6 +88,7 @@ An interactive Streamlit web app is included where users can input patient data 
 
 ## 📂 Project Structure
 
+```text
 heart-disease-risk-prediction/
 │
 ├── data/
