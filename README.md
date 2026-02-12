@@ -89,11 +89,9 @@ To run the app:
 
 ```bash
 streamlit run app/streamlit_app.py
+
+
 📂 Project Structure
-
-
-
-
 
 heart-disease-risk-prediction/
 │
@@ -121,21 +119,26 @@ heart-disease-risk-prediction/
 
 
 
-
-
-
-
-
 ▶️ How to Run the Project
 1. Install Dependencies
 pip install -r requirements.txt
+
 2. Train the Model
 python src/train.py
+
+
 This will train the model and save it inside:
+
 models/heart_model.pkl
+
 3. Evaluate the Model
 python src/evaluate.py
+
+
 This prints cross-validation scores and generates evaluation plots.
+
+4. Run the Streamlit App
+streamlit run app/streamlit_app.py
 🧠 Key Learning Outcomes
 
 Building reproducible ML pipelines
@@ -151,10 +154,13 @@ Saving and deploying models with Streamlit
 ⭐ Future Improvements
 
 Add SHAP explainability for medical interpretation
+
 Deploy the model online using Streamlit Cloud
+
 Experiment with XGBoost and deep learning models
 
 👤 Author
+
 Tarek Mohamed El-Batrik
 Computer Science Undergraduate @ Nile University
 Passionate about Machine Learning and Healthcare AI
