@@ -85,13 +85,8 @@ Final results achieved approximately:
 
 An interactive Streamlit web app is included where users can input patient data and get a real-time heart disease risk prediction.
 
-To run the app:
 
-```bash
-streamlit run app/streamlit_app.py
-
-
-📂 Project Structure
+## 📂 Project Structure
 
 heart-disease-risk-prediction/
 │
@@ -117,7 +112,7 @@ heart-disease-risk-prediction/
 ├── requirements.txt
 └── README.md
 
-
+---
 
 ## ▶️ How to Run the Project
 1. Install Dependencies
