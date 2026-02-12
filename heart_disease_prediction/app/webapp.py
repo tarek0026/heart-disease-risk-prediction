@@ -5,7 +5,7 @@ import pandas as pd
 # --------------------------
 # Load model
 # --------------------------
-model = joblib.load("Model/heart_disease_model.pkl")
+model = joblib.load("heart_disease_prediction/Model/heart_disease_model.pkl")
 
 st.set_page_config(
     page_title="Heart Disease Predictor",

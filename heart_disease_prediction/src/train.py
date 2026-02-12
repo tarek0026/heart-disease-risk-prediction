@@ -3,13 +3,13 @@ from sklearn.ensemble import HistGradientBoostingClassifier
 from sklearn.model_selection import StratifiedKFold, GridSearchCV
 import joblib
 
-from src.preprocess import load_data, build_preprocessor
+from .preprocess import load_data, build_preprocessor
 
 
 def train_model():
 
     # Load data
-    X, y = load_data("Data/heart_disease_uci.csv")
+    X, y = load_data("heart_disease_prediction/Data/heart_disease_uci.csv")
 
     # Columns
     num_cols = ["age", "trestbps", "chol", "thalch", "oldpeak"]
@@ -52,8 +52,8 @@ def train_model():
     best_model = grid.best_estimator_
 
     # Save model
-    joblib.dump(best_model, "Model/heart_disease_model.pkl")
-    print("✅ Model saved to Model/heart_disease_model.pkl")
+    joblib.dump(best_model, "heart_disease_prediction/Model/heart_disease_model.pkl")
+    print("✅ Model saved to heart_disease_prediction/Model/heart_disease_model.pkl")
 
     return best_model
 
