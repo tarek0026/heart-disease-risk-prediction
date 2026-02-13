@@ -140,12 +140,19 @@ Passionate about Machine Learning and Healthcare AI
 
 🚀 Live Demo:
 https://heart-disease-risk-prediction-mfuvfhnzfwum8ig9r8kplp.streamlit.app/
+
+
+
 📊 Model Performance
+
 Learning Curve
 <img src="https://github.com/user-attachments/assets/c6eac6af-969e-49c6-8b59-1f0e528cd219" width="600"/>
+
 ROC Curve
 <img src="https://github.com/user-attachments/assets/9447269e-f179-47c7-a4d2-f66ec466c6d0" width="600"/>
+
 🌐 Web App Preview
+
 <img src="https://github.com/user-attachments/assets/070fa95e-0382-4a23-934a-f6abbe7eb733" width="800"/>
 
 
