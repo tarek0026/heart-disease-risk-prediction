@@ -138,22 +138,19 @@ Computer Science Undergraduate @ Nile University
 Passionate about Machine Learning and Healthcare AI
 
 
+🚀 Live Demo:
+https://heart-disease-risk-prediction-mfuvfhnzfwum8ig9r8kplp.streamlit.app/
+📊 Model Performance
+Learning Curve
+<img src="https://github.com/user-attachments/assets/c6eac6af-969e-49c6-8b59-1f0e528cd219" width="600"/>
+ROC Curve
+<img src="https://github.com/user-attachments/assets/9447269e-f179-47c7-a4d2-f66ec466c6d0" width="600"/>
+🌐 Web App Preview
+<img src="https://github.com/user-attachments/assets/070fa95e-0382-4a23-934a-f6abbe7eb733" width="800"/>
 
 
 
 
-
-<img width="953" height="814" alt="image" src="https://github.com/user-attachments/assets/c6eac6af-969e-49c6-8b59-1f0e528cd219" />
-<img width="961" height="773" alt="image" src="https://github.com/user-attachments/assets/9447269e-f179-47c7-a4d2-f66ec466c6d0" />
-
-
-<img width="1919" height="800" alt="image" src="https://github.com/user-attachments/assets/070fa95e-0382-4a23-934a-f6abbe7eb733" />
-
-
-
-It’s a web app where you can enter health data and it predicts the risk of heart disease.
-
-Try it here:  https://heart-disease-risk-prediction-mfuvfhnzfwum8ig9r8kplp.streamlit.app/
 
 ## 📂 Project Structure
 
@@ -187,20 +184,6 @@ heart-disease-risk-prediction/
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-It’s a web app where you can enter health data and it predicts the risk of heart disease.
-
-Try it here:  https://heart-disease-risk-prediction-mfuvfhnzfwum8ig9r8kplp.streamlit.app/
 
 
 
