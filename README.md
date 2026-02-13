@@ -76,8 +76,8 @@ Evaluation includes:
 
 Final results achieved approximately:
 
-- **ROC-AUC ≈ 0.87 – 0.90**
-- **Accuracy ≈ 0.83 – 0.86**
+- **ROC-AUC ≈ 0.90 – 0.93**
+- **Accuracy ≈ 0.87 – 0.89**
 
 ---
 
